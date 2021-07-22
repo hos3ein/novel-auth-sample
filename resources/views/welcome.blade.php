@@ -28,9 +28,6 @@
                                 src="http://poser.pugx.org/hos3ein/novel-auth/v" alt="Latest Stable Version"></a>
                         <a href="https://packagist.org/packages/hos3ein/novel-auth"
                            rel="nofollow noindex noopener external ugc"><img
-                                src="http://poser.pugx.org/hos3ein/novel-auth/downloads" alt="Total Downloads"></a>
-                        <a href="https://packagist.org/packages/hos3ein/novel-auth"
-                           rel="nofollow noindex noopener external ugc"><img
                                 src="https://img.shields.io/packagist/dt/hos3ein/novel-auth"
                                 alt="Packagist Download"></a>
                         <a href="https://packagist.org/packages/hos3ein/novel-auth"
