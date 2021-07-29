@@ -967,12 +967,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hos3ein/novel-auth.git",
-                "reference": "6457e3123a5b35d0c53fab49a9af5f8209a7247f"
+                "reference": "c0a8c6a1d642f2c4e02448aa8091e88dcf946c9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hos3ein/novel-auth/zipball/6457e3123a5b35d0c53fab49a9af5f8209a7247f",
-                "reference": "6457e3123a5b35d0c53fab49a9af5f8209a7247f",
+                "url": "https://api.github.com/repos/hos3ein/novel-auth/zipball/c0a8c6a1d642f2c4e02448aa8091e88dcf946c9b",
+                "reference": "c0a8c6a1d642f2c4e02448aa8091e88dcf946c9b",
                 "shasum": ""
             },
             "require": {
@@ -1019,7 +1019,7 @@
                 "issues": "https://github.com/hos3ein/novel-auth/issues",
                 "source": "https://github.com/hos3ein/novel-auth/tree/master"
             },
-            "time": "2021-07-22T04:38:39+00:00"
+            "time": "2021-07-29T15:15:29+00:00"
         },
         {
             "name": "laravel/fortify",

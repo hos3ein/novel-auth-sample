@@ -2,7 +2,7 @@
 
 namespace App\Providers;
 
-use App\Actions\NovelAuth\AccountManager;
+use Hos3ein\NovelAuth\Classes\AccountManager;
 use App\Actions\NovelAuth\OtpManager;
 use Hos3ein\NovelAuth\Classes\TM;
 use Hos3ein\NovelAuth\NovelAuth;
