@@ -71,9 +71,9 @@
                     <a href="{{ route('auth.logout') }}" class="btn btn-warning">{{ __('Logout Users') }}</a>
                 @endauth
                 <span class="btn border">
-                <a href="/locale/fa"><img src="https://lipis.github.io/flag-icon-css/flags/4x3/ir.svg" alt="fa"
+                <a href="/locale/fa"><img src="https://flagicons.lipis.dev/flags/4x3/ir.svg" alt="fa"
                                           width="30"/></a>
-                <a href="/locale/en"><img src="https://lipis.github.io/flag-icon-css/flags/4x3/us.svg" alt="en"
+                <a href="/locale/en"><img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="en"
                                           width="30"/></a>
                 </span>
             </div>
